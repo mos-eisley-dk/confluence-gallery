@@ -1,0 +1,20 @@
+# Confluence Home
+ConfluenceHome=/opt/confluence
+
+# Atlassian CLI Home
+CLIHome=/opt/atlassian-cli
+
+# Where Images/Video are
+MediaRoot=/data/images
+
+# Where Content are
+FileContentRoot=/data/filecontent
+
+# Thumb and Display Sizes:
+ThumbSize=200
+DisplaySize=800
+LabelHeight=10
+
+# Temporary HTML / WIKI File
+WikiFile=/tmp/wiki
+WikiPageFile=/tmp/wikipage
